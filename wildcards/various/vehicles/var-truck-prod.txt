@@ -1,0 +1,343 @@
+American Lafrance Condor
+Agrale 6500
+Agrale 8700
+Agrale 10000
+Agrale 14000
+AMW TP Series
+Ashok Layland Avia
+Ashok Leyland U-Truck
+Askam AS 950
+Askam 8 Litre
+Askam Hi-Ex
+Astra HD9
+AMW TR Series
+AMW HL Series
+AMW TM Series
+AMW CP Series
+Autocar Xspotter
+Autocar Expert
+Autocar Refuse
+Avia D-Line
+AzUniversal Motors Isuzu
+BeiBen V3 Series
+BeiBen NG80 Series
+BeiBen Eurysome
+BeiBen Tiema Series
+Beijing Automobile Works BAW Dragon Flag
+Beijing Automobile Works BAW Bell
+BharatBenz 914
+BharatBenz 1214
+BharatBenz 2523
+BharatBenz 3128
+BharatBenz 3143
+BharatBenz 3723
+Bryansk Automobile Plant BAZ-69096
+Bryansk Automobile Plant BAZ-69096 (civilian version)
+Bryansk Automobile Plant BAZ-64022
+BMC Fatih
+BMC Profesyonel
+Caterpillar CAT CT660
+CEV Might-E Truck
+Chevrolet NHR
+Chevrolet NKR
+Chevrolet N-Series
+Chevrolet Express Cutaway
+Chevrolet FTR
+Chevrolet FVR
+Chevrolet FVZ
+Chevrolet CYZ
+Citroën Jumper
+CCC LET2
+CCC COE2
+CCC LOT2
+CNJ Fortune
+CNJ Ruichi
+DAF LF
+DAF CF
+DAF XF
+Dayun CGC1047PB33E3
+Dayun CGC1141
+Dayun DYX1250
+Dayun CGC1311
+Dayun DYX5310
+Dina Hustler
+Dongfeng Palawan
+Dongfeng Gold Fighter
+Dongfeng Chenglong
+Dongfeng Kang PA
+Dongfeng Star
+Dongfeng Badly
+Dongfeng Days Kam
+Dongfeng Likas
+Dongfeng King Kong
+Dongfeng Tianlong
+Dongfeng Titan
+Dongfeng Balong Heavy Truck
+Dongfeng Dragon Card
+FAP 1318
+FAP 1824
+FAP 1828
+FAP 1830
+FAP 2235
+FAP 2640
+FAW CA1051K26L3
+FAW CA1051K26L3R5
+FAW CA1037K2L
+FAW CA1031K2LR5
+FAW CA1031K2L
+FAW CA5313CLXYP7K2L11T4
+FAW CA3075K2
+FAW CA4322P21K15T1YA82
+FAW CA3313P7K2T4A
+FAW CA4252P21K2T1A
+FAW J6
+FAW-GM Jie Fang 1-Ton Truck
+FAW-GM Jie Fang 2-Ton Truck
+FAW-GM Jie Fang 3-Ton Truck
+Fiat Ducato
+FNM Agrale
+Ford F-650/750
+Ford Econoline Cataway
+Ford Cargo
+Ford F-MAX
+Foton Aumark Series
+Foton Ollin Series
+Foton Auman Series
+Freightliner Freigtliner M2 106
+Freightliner M2 112
+Freightliner Coronado Series
+Freightliner Cascadia
+Freightliner 108SD
+Freightliner 114SD
+Freightliner Century Class
+Freightliner Argosy
+GA MAZ
+GAZ GAZ-3307 and GAZ-3309
+GAZ GAZ-3308 Sadko
+GAZ Gazelle
+GAZ GAZelle NEXT
+GAZ GAZon NEXT
+GAZ Sadko NEXT
+GAZ Valdai
+GINAF C-Series
+GINAF X-Series
+Hino 300 Series
+Hino 238
+Hino 500 Series
+Hino 700 Series
+Hyundai HD45
+Hyundai HD65/72/78
+Hyundai H350
+Hyundai Mighty
+Hyundai HD120/210
+Hyundai Cargo Truck
+Hyundai Xcient
+Iran Khodro Diesel Khawar 1934
+Isuzu N-Series
+Isuzu Mazda Titan
+Isuzu Elf
+Isuzu Forward
+Isuzu Giga
+Iveco Daily
+Iveco PowerStar
+Iveco Eurocargo
+Iveco Trakker
+Iveco Stralis
+JAC 4DA1 Series
+JAC FHC Series
+JAC Shuailing
+JAC Tipper
+JAC Tractor
+JMC Carrying
+Kalmar 4x2 off Highway
+Kalmar TR-Series
+KAMAZ 43253
+KAMAZ 43114
+KAMAZ 65207
+KAMAZ 65117
+KAMAZ 4326
+KAMAZ 4308
+KAMAZ 54115
+KAMAZ 5460
+KAMAZ 5490
+KAMAZ 65116
+KAMAZ 65206
+KAMAZ 6460
+KAMAZ 44108
+KAMAZ 65201
+KAMAZ 65224
+KAMAZ 65225
+KAMAZ 65226
+Kia Bongo
+Kenworth K270
+Kenworth T170
+Kenworth T409SAR
+Kenworth T359
+Kenworth C500
+Kenworth C509
+Kenworth T800
+Kenworth W900
+Kenworth T660
+Kenworth T659
+Kenworth T700
+Kenworth T680
+Kenworth T880
+Kenworth T909
+KrAZ KrAZ-6322
+KrAZ KrAZ-6505
+KrAZ KrAZ-6510
+KrAZ KrAZ-6443
+KrAZ KrAZ-5233
+KrAZ H12.2
+KrAZ H23.2
+KrAZ S20.2
+KrAZ S26.2M
+KrAZ H27.3
+KrAZ KrAZ-5401
+Mack Pinnacle Series
+Mack Titan
+Mack Granite
+Mack TerraPro
+Mack Metro-Liner
+Mack Super-Liner
+Mahindra Navistar DI3200
+Mahindra Navistar Loadking Zoom
+Mahindra Navistar Torro
+Mahindra Navistar Traco
+Mahindra Navistar Truxo
+Master Highland
+Master Forland
+Master Foton
+Master Grande
+MAZ MAZ-5309
+MAZ MAZ-4371
+MAZ MAZ-447131
+MAZ MAZ-6440
+MAZ MAZ-6312
+MAZ MAZ-5440
+MAZ MAZ-5433
+Mercedes-Benz Atego
+Mercedes-Benz Axor
+Mercedes-Benz Unimog
+Mercedes-Benz Zetros
+Mercedes-Benz Actros
+Mercedes-Benz Arocs
+Mercedes-Benz Sprinter
+Mitsubishi Fuso Canter
+Mitsubishi Fuso Fighter
+Mitsubishi Fuso The Great
+Mitsubishi Fuso Super Great
+MZKT - 75165
+MZKT - 7402
+MZKT - 692371
+Navistar International International Citystar
+Navistar International International LoadStar
+Navistar International International TerraStar
+Navistar International International DuraStar
+Navistar International International Transtar
+Navistar International International 9200i
+Navistar International International 9400i
+Navistar International International 9800i
+Navistar International International 9900i
+Navistar International International LoneStar
+Navistar International International WorkStar
+Navistar International International PayStar
+Navistar International International ProStar+
+Nissan Atlas
+Nissan Renault Maxity
+MAN TGE
+MAN TG L
+MAN TGM
+MAN TGS
+MAN TGX
+Peterbilt 210
+Peterbilt 320
+Peterbilt 325
+Peterbilt 348
+Peterbilt 365
+Peterbilt 382
+Peterbilt 384
+Peterblit Peterbilt 386
+Peterbilt 389
+Peterbilt 587
+Peterbilt 579
+Peugeot Boxer
+Renault Midlum
+Renault Access
+Renault Kerax
+Renault Premium
+Renault C
+Renault T
+Roman 12.250 F
+SAIC-Iveco Hongyan Hongyan Cargo Truck
+SAIC-Iveco Hongyan Hongyan Tractor
+SAIC-Iveco Hongyan Hongyan Dump Truck
+SAIC-Iveco Hongyan Hongyan Tanker Truck
+Scania P-series
+Scania G-series
+Scania R-series
+Shaanxi Olong Tractor Truck
+Shaanxi Delong Tractor Truck
+Silant 3.3 TD
+Sinotruk Steyr
+Sinotruk HOWO T7H
+Sinotruk HOWO T5G
+Sisu Polar
+Sisu Rock
+Smith Newton
+SML Super
+SNVI truck M120
+SNVI truck TC260
+Tata Construck
+Tata Novus
+Tata Prima
+Tata Daewoo Novus
+Tata Daewoo Prima
+Tatra Phoenix
+Tatra T815 TerrN°2
+Tatra 810
+Tatra Jamal
+Tevva TEV75B
+Toyota Dyna
+UAZ UAZ-3303
+UAZ Cargo
+UD Trucks Nissan Cabstar
+UD Condor
+UD Big Thumb
+UD Quon
+UralAZ Ural-4320
+UralAZ Ural-43206
+UralAZ Ural-4320-3951
+UralAZ Ural-432065
+UralAZ Ural-44202
+UralAZ Ural-5323
+UralAZ Ural-6368
+UralAZ Ural-6370
+UralAZ Ural Next
+Volkswagen Constellation
+Volkswagen Crafter
+Volkswagen Delivery
+Volkswagen Worker
+Volvo FE
+Volvo FM
+Volvo VHD
+Volvo VM
+Volvo FH
+Volvo FMX
+Volvo VN
+Volvo VNX
+Wanshan Special Vehicle WS5250
+Wanshan Special Vehicle WS5470
+Wuzheng Auto Works A series
+Wuzheng Auto Works V series
+Wuzheng Auto Works D series
+Western Star 4700
+Western Star 4800
+Western Star 4900
+Western Star 6900
+Yulon Yue Loong Homer
+Zastava EuroZeta
+Zastava ZK-101
+ZiL ZIL-4327
+ZiL ZIL-4331
+ZiL ZIL-5301 "Bychok"

@@ -1,0 +1,215 @@
+Green beige #CDBA88
+Beige #D0B084
+Sand yellow #D2AA6D
+Signal yellow #F9A800
+Golden yellow #E49E00
+Honey yellow #CB8E00
+Maize yellow #E29000
+Daffodil yellow #E88C00
+Brown beige #AF804F
+Lemon yellow #DDAF27
+Oyster white #E3D9C6
+Ivory #DDC49A
+Light ivory #E6D2B5
+Sulfur yellow #F1DD38
+Saffron yellow #F6A950
+Zinc yellow #FACA30
+Grey beige #A48F7A
+Olive yellow #A08F65
+Colza yellow #F6B600
+Traffic yellow #F7B500
+Ochre yellow #BA8F4C
+Luminous yellow #FFFF00
+Curry #A77F0E
+Melon yellow #FF9B00
+Broom yellow #E2A300
+Dahlia yellow #F99A1C
+Pastel yellow #EB9C52
+Pearl beige #908370
+Pearl gold #80643F
+Sun yellow #F09200
+Yellow orange #DD7907
+Red orange #BE4E20
+Vermilion #C63927
+Pastel orange #FA842B
+Pure orange #E75B12
+Luminous orange #FF2300
+Luminous bright orange #FFA421
+Bright red orange #F3752C
+Traffic orange #E15501
+Signal orange #D4652F
+Deep orange #EC7C25
+Salmon orange #DB6A50
+Pearl orange #954527
+RAL orange        	
+Flame red #AB2524
+Signal red #A02128
+Carmine red #A1232B
+Ruby red #8D1D2C
+Purple red #701F29
+Wine red #5E2028
+Black red #402225
+Oxide red #703731
+Brown red #7E292C
+Beige red #CB8D73
+Tomato red #9C322E
+Antique pink #D47479
+Light pink #E1A6AD
+Coral red #AC4034
+Rose #D3545F
+Strawberry red #D14152
+Traffic red #C1121C
+Salmon pink #D56D56
+Luminous red #F70000
+Luminous bright red #FF0000
+Raspberry red #B42041
+Pure red #E72512
+Orient red #AC323B
+Pearl ruby red #711521
+Pearl pink #B24C43
+Red lilac #8A5A83
+Red violet #933D50
+Heather violet #D15B8F
+Claret violet #691639
+Blue lilac #83639D
+Traffic purple #992572
+Purple violet #4A203B
+Signal violet #904684
+Pastel violet #A38995
+Telemagenta #C63678
+Pearl violet #8773A1
+Pearl blackberry #6B6880
+Violet blue #384C70
+Green blue #1F4764
+Ultramarine blue #2B2C7C
+Sapphire blue #2A3756
+Black blue #1D1F2A
+Signal blue #154889
+Brilliant blue #41678D
+Grey blue #313C48
+Azure blue #2E5978
+Gentian blue #13447C
+Steel blue #232C3F
+Light blue #3481B8
+Cobalt blue #232D53
+Pigeon blue #6C7C98
+Sky blue #2874B2
+Traffic blue #0E518D
+Turquoise blue #21888F
+Capri blue #1A5784
+Ocean blue #0B4151
+Water blue #07737A
+Night blue #2F2A5A
+Distant blue #4D668E
+Pastel blue #6A93B0
+Pearl Gentian blue #296478
+Pearl night blue #102C54
+Patina green #327662
+Emerald green #28713E
+Leaf green #276235
+Olive green #4B573E
+Blue green #0E4243
+Moss green #0F4336
+Grey olive #40433B
+Bottle green #283424
+Brown green #35382E
+Fir green #26392F
+Grass green #3E753B
+Reseda green #68825B
+Black green #31403D
+Reed green #797C5A
+Yellow olive #444337
+Black olive #3D403A
+Turquoise green #026A52
+May green #468641
+Yellow green #48A43F
+Pastel green #B7D9B1
+Chrome green #354733
+Pale green #86A47C
+Olive-drab/brown olive #3E3C32
+Traffic green #008754
+Fern green #53753C
+Opal green #005D52
+Light green #81C0BB
+Pine green #2D5546
+Mint green #007243
+Signal green #0F8558
+Mint turquoise #478A84
+Pastel turquoise #7FB0B2
+Pearl green #1B542C
+Pearl opal green #005D4C
+Pure green #25E712
+Luminous green #00F700
+Squirrel grey #7E8B92
+Silver grey #8F999F
+Olive grey #817F68
+Moss grey #7A7B6D
+Signal grey #9EA0A1
+Mouse grey #6B716F
+Beige grey #756F61
+Khaki grey #746643
+Green grey #5B6259
+Tarpaulin grey #575D57
+Iron grey #555D61
+Basalt grey #596163
+Brown grey #555548
+Slate grey #51565C
+Anthracite grey #373F43
+Black grey #2E3234
+Umbra grey #4B4D46
+Concrete grey #818479
+Graphite grey #474A50
+Granite grey #374447
+Stone grey #939388
+Blue grey #5D6970
+Pebble grey #B9B9A8
+Cement grey #818979
+Yellow grey #939176
+Light grey #CBD0CC
+Platinum grey #9A9697
+Dusty grey #7C7F7E
+Agate grey #B4B8B0
+Quartz grey #6B695F
+Window grey #9DA3A6
+Traffic grey A #8F9695
+Traffic grey B #4E5451
+Silk grey #BDBDB2
+Telegrey 1 #91969A
+Telegrey 2 #82898E
+Telegrey 4 #CFD0CF
+Pearl mouse grey #888175
+Green brown #887142
+Ochre brown #9C6B30
+Signal brown #7B5141
+Clay brown #80542F
+Copper brown #8F4E35
+Fawn brown #6F4A2F
+Olive brown #6F4F28
+Nut brown #5A3A29
+Red brown #673831
+Sepia brown #49392D
+Chestnut brown #633A34
+Mahogany brown #4C2F26
+Chocolate brown #44322D
+Grey brown #3F3A3A
+Black brown #211F20
+Orange brown #A65E2F
+Beige brown #79553C
+Pale brown #755C49
+Terra brown #4E3B2B
+Pearl copper #773C27
+Cream #EFEBDC
+Grey white #DDDED4
+Signal white #F4F8F4
+Signal black #2E3032
+Jet black #0A0A0D
+White aluminium #A5A8A6
+Grey aluminium #8F8F8C
+Pure white #F7F9EF
+Graphite black #292C2F
+Clean room white        	
+Traffic white #F7FBF5
+Traffic black #2A2D2F
+Papyrus white #CFD3CD
+Pearl light grey #9C9C9C
+Pearl dark grey #7E8182

@@ -1,0 +1,16 @@
+Red #E7343C
+Orange #F89F31
+Yellow #FDF750
+Green #2BAF71
+Blue #3050D0
+Sky Blue #56B8FE
+Purple #873DE9
+Pink #FF9FFF
+Rose #FECFE1
+Black #000000
+White #FFFFFF
+Grey (Gray) #858585
+Electric Green #50FC3D
+Maroon #AD2762
+Sliver C8C8C8
+Brown #75472A

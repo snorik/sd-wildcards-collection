@@ -1,0 +1,138 @@
+ACMAT VLRA 2
+ACMAT ALTV
+Automotive Industries AIL Storm M-243
+Automotive Industries AIL Abir II
+AM General Humvee M1097A2
+Ashok Leyland Super Stallion
+Astra SM(HD)
+Astra HD
+BeiBen 1928
+Bryansky Avtomobilny Zavod BAZ-64022
+Bryansky Avtomobilny Zavod BAZ-69096
+Bryansky Avtomobilny Zavod BAZ-6909
+Bryansky Avtomobilny Zavod BAZ-6306
+Bryansky Avtomobilny Zavod BAZ-6910
+DAF Tropco
+Dongfeng Motor EQ240/EQ2081
+Dongfeng Motor EQ245/EQ2100
+Dongfeng Motor DF-21
+Fabrika automobila Priboj FAP 1118
+Fabrika automobila Priboj FAP 2026
+Fabrika automobila Priboj FAP 2228
+Fabrika automobila Priboj FAP 3240
+FAW CA142
+FAW Group 
+GAZ Sadko
+Hino 700
+Hino Ranger
+Isuzu Motors Type 73
+Isuzu Forward
+Iveco Trakker
+Iveco EuroCargo
+Iveco Stralis
+Iveco ACL
+Iveco ACTL
+Jelcz-Komponenty Jelcz 442
+Jelcz-Komponenty Jelcz 662
+Jelcz-Komponenty Jelcz 862
+KAMAZ KamAZ-4350 Mustang
+KAMAZ KamAZ-43501
+KAMAZ KamAZ-43114
+KAMAZ KamAZ-43118
+KAMAZ KamAZ-4326
+KAMAZ KamAZ-5350 Mustang
+KAMAZ KamAZ-6350
+KAMAZ KamAZ-65224
+KAMAZ KamAZ-65225
+KAMAZ KamAZ-6560
+Kia KM250
+KrAZ KrAZ-6322
+KrAZ KrAZ-6446
+KrAZ KrAZ-5233
+Krauss-Maffei Wegmann/Rheinmetall Mungo ESK
+Mack Granite MILCOTS
+Mack Vision MILCOTS
+Mack Sherpa Carrier
+Mack Sherpa Medium
+Mack Kerax
+Mercedes-Benz Unimog U5000
+Mercedes-Benz Zetros
+Mercedes-Benz Axor
+Mercedes-Benz L-1214 4x4
+Mercedes-Benz Actros
+Mercedes-Benz Atego
+Mercedes-Benz 2624
+Minsk Automobile Plant MAZ-6317
+Minsk Automobile Plant MAZ-6425
+Mitsubishi Fuso Type 74
+Mitsubishi Fuso Super Great
+Mowag Duro
+MZKT MZKT-74295
+MZKT MZKT-741351
+MZKT MZKT-79221
+MZKT MZKT-7930
+MZKT MZKT-8021
+MZKT MZKT-8022
+MZKT MZKT-5002
+MZKT MZKT-6001
+MZKT MZKT-6002
+Navistar Defence MMTV
+Navistar 7000 series
+Navistar Defence International 5000 MV
+Oshkosh FMTV
+Oshkosh HET
+Oshkosh HEMTT
+Oshkosh LVS/LVSR
+Oshkosh Medium Tactical Vehicle Replacement
+Oshkosh MTT
+Renault Sherpa Medium 5 and 10
+Renault Kerax
+Renault Trucks K
+Rheinmetall MAN Military Vehicles MAN HX
+Rheinmetall MAN Military Vehicles MAN SX
+Rheinmetall MAN Military Vehicles MAN TGA
+Rheinmetall MAN Military Vehicles MAN TGM
+Rheinmetall MAN Military Vehicles MAN TGS
+Roman DFAEG
+Roman DFE
+Scania R-series
+Shaanxi SX2110
+Shaanxi SX2190
+Shaanxi SX4400
+Sinotruk Howo
+Sisu A2045
+Sisu 6×6
+Sisu E13TP 8×8
+SNVI M230/260
+SNVI M350
+SNVI M120
+Taian Special Vehicle Manufactory TA580/TAS5380
+Tata LPTA 1613/2038
+Tata SD 1015
+Tata SK1613
+Tata LPT 1615
+Tata LPTA 3138 8x8
+Tata Novus
+Tatra 815-7
+Tatra 810
+Tatra 158 Phoenix
+Tatra 816
+Toyota Type 73 Medium Truck
+UralAZ Ural-4320
+UralAZ Ural-5323
+UROVESA Uro M3
+Vehicle Factory Jabalpur VFJ Self-propelled Wheeled Artillery
+Vehicle Factory Jabalpur VFJ Stallion
+Vehicle Factory Jabalpur VFJ 5KL Water Bowser
+Vehicle Factory Jabalpur VFJ Light Recovery Vehicle
+Vehicle Factory Jabalpur VFJ LPTA 715
+Vehicle Factory Jabalpur VFJ 2KL Water Bowser
+Volvo FM
+Volvo FMX
+Volkswagen Worker
+Volkswagen Constellation
+Wanshan Special Vehicle WS2400
+Wanshan Special Vehicle WS2300
+Wanshan Special Vehicle WS2500
+Wanshan Special Vehicle WS51200
+Zastava New Turbo Rival

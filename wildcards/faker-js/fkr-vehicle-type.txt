@@ -1,0 +1,11 @@
+cargo van
+convertible
+coupe
+crew cab pickup
+extended cab pickup
+hatchback
+minivan
+passenger van
+suv
+sedan
+wagon

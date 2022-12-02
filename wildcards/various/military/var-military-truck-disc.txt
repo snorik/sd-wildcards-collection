@@ -1,0 +1,597 @@
+AEC X/Y/Z
+AEC S
+AEC Marshall
+AEC Matador
+AEC Militant
+Albion A10
+Albion SB
+Albion FT-11N
+Albion BY-3/BY-5
+Albion CX series
+Albion FT-15N
+Albion FT-103N (FV-13581)
+Albion WD-66N (FV-14001)/FV-14004
+Albion WD/HD/23N (FV-11101)
+Alfa Romeo 800
+Alvis plc-Unipower Alvis-Unipower M
+AM General M35 2½-ton cargo truck
+AM General M54
+AM General M809
+AM General M915/M916?M920
+AM General M939 Truck
+Armor Holdings FMTV
+Astra BM20
+Astra BM300 series
+Austin K30
+Austin K2/Y
+Austin K3
+Austin K5
+Austin K6
+Austin K9WD
+Autocar U
+Automotive Industries AIL M325
+Automotive Industries AIL Abir
+BAE Systems Land & Armaments FMTV
+Bedford MW
+Bedford OX
+Bedford OY
+Bedford QL
+Bedford RL
+Bedford MK
+Bedford TM4-4
+Marshall Bedford MT
+Berna 2VM
+Bianchi Mediolanum-36
+Bianchi Mediolanum-38
+Bianchi Miles
+Bianchi Audax
+Bianchi CL51
+Bianchi CM51
+Bianchi CM54
+BMC Fatih
+BMC Profesyonel
+BMC 235-16P 4x4 TWV
+BMY M939 Truck
+Boeing (with Paccar) HML
+Bombardier M35CDN
+Borgward B 3000
+Borgward B 2000 A/O
+Borgward B2500A
+Bravia Gazela
+Bravia Leopardo-III
+Bravia Pantera
+Bremach GR
+Brimont ETR-206
+Brimont Brutt
+Brockway B666
+Brockway C666
+Brossel Brossel-TAL
+Bryansky Avtomobilny Zavod ZIL-135LM
+Bryansky Avtomobilny Zavod BAZ-135MB
+Bryansky Avtomobilny Zavod BAZ-6953
+Bucher-Guyer Bucher Duro
+Büssing I/II/III/IV
+Bussing 
+Bussing Bussing-NAG G31
+Bussing Bussing-NAG 3GL6
+Bussing Bussing-NAG 500S/500A/4500S/4500A
+Bussing sWS
+Caterpillar M520 Goer
+Caterpillar XM554
+Citroën FOM
+Chevrolet Master Trado
+Chevrolet G506
+Chevrolet CMP
+Chevrolet CUCV
+Coleman C25
+Coleman T1
+Coleman FBD
+Coleman DW6
+Coleman CF-55AF
+Commer RC
+Commer Beetle
+Corbitt F
+Corbitt 50SD6
+Corbitt 54SD6
+Corbitt 40SD6
+Crossley FWD
+Csepel B300
+Csepel D344
+Csepel D566
+DAC 660 series/FAEG/FA/HAE
+DAF YA-328
+DAF YA-314
+DAF YT-1500L/YA-514
+DAF YA-616/YT-616
+DAF YA-4440
+DAF YA-5441
+DAF YA-4442/5442
+DAF YAV-2300/YTV/YPR
+DAF YAZ-2300/YKZ/YBZ
+DAF YTZ
+Dodge T202 VC3/VC4/VC5
+Dodge WC series
+Dodge M37
+Dodge CUCV
+Ernesto Breda Breda 32
+Ernesto Breda Breda 33
+Ernesto Breda Breda 40
+Ernesto Breda Breda 41
+Ernesto Breda Breda-Dovunque-41
+Ernesto Breda Breda-130
+Ernesto Breda Breda-Dovunque-52
+Ernst Grube G5
+Fabrika automobila Priboj FAP 13
+Faun L900
+Faun ZR
+Faun ZRS
+Faun L908/45A
+Faun L908/425A/L908SA
+Faun L908/54A
+Faun L912 (L912/45A, L912SA, L912/5050AK)
+Faun L912VSA
+Faun L912/Z912 (L912/21)
+Faun L1212
+Faun GT6, GT8, Z12
+Faun SLT 50 Elefant
+Faun SLT 56 Franziska
+Federal AS
+Federal Q9
+Federal 75K131
+Federal 94X43
+Federal 604
+Federal 606
+Federal 605
+Federal 2G
+Fiat 15Ter
+Fiat 18BL/18BLR
+Fiat 20BL
+Fiat 30BL
+Fiat 621RN
+Fiat 633NM/633BM
+FIAT 634NM
+Fiat 626NM/626BL
+Fiat 625NM
+Fiat 666NM/666N7
+Fiat 665NM
+Fiat SC727
+Fiat 680NM
+Fiat 697
+Fiat 639NM
+Fiat 6601 (CM52)
+Fiat TM48
+Fiat TP50
+Fiat Dovunque-50
+Fiat Fiat-6602 (CP70)
+Fiat Fiat-6607 (CP70)
+Fiat 6607CM
+Fiat 6605
+FN Herstal FN-Kégresse
+FN 63C/63C
+FN 62C
+FN Herstal FN-Brossel-Miesse 62C4RM
+FWD B
+FWD 6x6
+FWD HH6
+FWD M7
+FWD HAR-01/HAR-03
+FWD HAR-1
+FWD SU
+FWD YU
+FWD Tractioneer
+FWD RB662158 66TT50/66TT60
+GAZ MM of war time
+GAZ GAZ-61-417
+GAZ GAZ-63
+GAZ GAZ-62
+GAZ GAZ-66
+GAZ GAZ-66B
+GAZ GAZ-33097
+GMC T4
+GMC T1
+GMC T5
+GMC 4272/4930
+GMC 4929 (T16)
+GMC ACKX
+GMC CMP
+GMC AFKWX
+GMC CCKW
+GMC M135
+GMC A/S32A-20
+GMC GMC-MAN M1001/M1002/M1013/M1014
+GMC CUCV
+Hanomag SS100W
+Hanomag Sd.Kfz. 11
+Hanomag AL28
+Hanomag-Henschel AL28
+Hanomag-Henschel HS 22
+Henschel 33D1/33G1
+Henschel HS 115A
+Henschel HS 3-160A
+Henschel HS 22
+Indiana 19DR
+Indiana 16x6
+Indiana 20x6
+Industriewerke Ludwigsfelde IFA W50LA/A
+Industriewerke Ludwigsfelde IFA L60
+International K
+International M-1-4/M-2-4
+International M-3-4
+International M-5H-6
+International H-542
+International Harvester M54
+International Mk-III/Mk-IV
+International Mk-V
+Isotta Fraschini GM3
+Isotta Fraschini 16/16A
+Isotta Fraschini D80NM
+Isotta Fraschini D70NM
+Isotta Fraschini D65UMB
+Isotta Fraschini D80COM
+Isuzu Type 94 (M2594)
+Isuzu TX
+Isuzu TU23
+Isuzu TB60
+Isuzu TW340
+Isuzu TWD20/25
+Isuzu TSD45/TSD55
+Jelcz 315TW
+Jelcz P662D34
+Jiefang CA-30
+Kaelble Z6WA
+Kaelble Z8V2A
+Kaelble KDV833S/KDV832S
+Kaiser Jeep M35
+Kaiser Jeep M54
+Kaiser Jeep M715
+KAMAZ KamAZ-4310 and KamAZ-43101
+KAMAZ KamAZ-4410
+Karrier CK6
+Karrier K6/KT4
+Kenworth Kenworth-570/571/572
+Kenworth Kenworth-572 (M1A1)
+Kenworth T10
+KrAZ KrAZ-214
+KrAZ KrAZ-255B
+KrAZ KrAZ-260
+Krupp Krupp-Daimler
+Krupp L2H43
+Krupp L2H143
+Krupp L3H63/L3H63
+Krupp Drache AL8 DR4
+KZKT KZKT-7428
+Lancia Zeta
+Lancia 1Z
+Lancia Ro-264NM
+Lancia 3 RO
+Lancia 6ROM (CP48)
+Lancia CL51
+Lancia TL51
+Lancia 506
+Lancia 209.400
+Land Rover 101 Forward Control
+Latil 16CV
+Latil TH
+Latil TP
+Latil TAR
+Latil TL
+Latil KTL
+Latil TARH
+Latil M-2TL6
+Latil M-2TZ
+Latil M-18T2
+LeTourneau Tournetractor
+LeTourneau LeTourneau-Westinghouse Sno-Buggy TC-264
+LeTourneau LeTourneau-Westinghouse M1/M2
+LeTourneau snow train
+LIAZ 111.154
+LIAZ 151.154
+LIAZ 18.33PVA
+Liberty truck
+Mack AC
+Mack T12
+Mack EN5779
+Mack LMSW
+Mack NJU1/NJU2
+Mack NM
+Mack NO
+Mack NR
+Mack M54
+Mack M123
+Mack DM6116S/DM492S
+Mack RM6866RS
+Mack RD8266SX
+Mack CL713
+Magirus 70PS
+Magirus ML
+Magirus M206
+Magirus 33G1/33H
+Magirus Deutz A6500
+Magirus Deutz Jupiter-150/Jupiter 178D15SA
+Magirus Deutz Uranus
+MAN F1H6
+MAN F4
+MAN ML4500A
+MAN 630L2A
+MAN 670L3AE
+MAN 415HA
+MAN 11.136HA
+MAN MAN-Volkswagen 8.136FAE
+MAN 14.240FAEG
+MAN 20.280DFAEG
+MAN DFAT
+MAN KAT1
+MAN LX/FX
+Mercedes-Benz SK
+Mercedes-Benz G3a
+Mercedes-Benz 1117
+Mercedes-Benz L1500E/S/A
+Mercedes-Benz L3000S/A
+Mercedes-Benz L4500A/S
+Mercedes-Benz L6500
+Mercedes-Benz L701
+Mercedes-Benz Unimog 404 S
+Mercedes-Benz LG315/46
+Mercedes-Benz Unimog 413 (U80)
+Mercedes-Benz Unimog 416 (U80/100)
+Mercedes-Benz Unimog 435 (U1300L/U1700L)
+Mercedes-Benz L1017
+Mercedes-Benz 3850AS
+Mercedes-Benz 2628A
+Mercedes-Benz Unimog U1350L
+Mercedes-Benz Unimog U1550L
+Mercedes-Benz Unimog U2150L
+Mercedes-Benz Unimog U2450
+Mercedes-Benz/Rába Mercedes-Benz S
+Minsk Automobile Plant ru:МАЗ-502
+Minsk Automobile Plant MAZ-535
+Minsk Automobile Plant MAZ-537
+Minsk Automobile Plant MAZ-543/MAZ-7310/MAZ-7410
+Minsk Automobile Plant MAZ-547/MAZ-7916
+Minsk Automobile Plant MAZ-7912/7917
+Mitsubishi Type 93 (M-2593)
+Mitsubishi W23/W121/W200
+Mol T5266.05F
+Mol T6066
+Moreland TX6
+Morris Motors Tilly
+Morris CD/CDSW
+Morris CS8
+Morris PU
+Morris C4
+Morris CS11/30
+Morris C8GS
+Morris Commercial MRA1 (FV-16101)
+MZKT MZKT-74135
+ÖAF SLKW
+Officine Meccaniche OM-32
+Officine Meccaniche OM Taurus N/B/C
+Officine Meccaniche OM CL51
+Officine Meccaniche OM-6600 (CP56)
+Pacific Car and Foundry M26
+Pacific Car and Foundry M26A1
+Panhard Panhard-Chatillon K13
+Panhard Panhard-Levassor K113
+Pegaso 3045
+Pegaso 3050
+Pegaso 3046/7222
+Pegaso 3055/7227
+Perez et Raymond Tidelium T40
+Praga V
+Praga RN
+Praga RV
+Praga V3S
+Rába Raba Botond-38M (Botond-I)
+Raba/MÁVAG Raba Maros
+Raba Botond M41 (Botond-II)
+Raba T series
+Raba H
+Renault DA
+Renault D8
+Renault DN
+Renault DV
+Renault EP
+Renault EG
+Renault FU
+Renault GZ
+Renault VT6
+Renault AGC
+Renault AGT
+Renault ADR
+Renault TI-4AE
+Renault AGP
+Renault AGR
+Renault AGK
+Renault AHS
+Renault AHN
+Renault AHR
+Renault CBH
+Renault R-2067/R-2087/R-2066/R-2086
+Renault R-2164/R-2167/2265
+Renault R-2152/R-4152
+Renault R-4153/R-2185/R-2182
+Renault TRM1200
+Renault TRM-2000
+Renault TRM-4000
+Renault TRM-6000
+Renault TRM-9000/TRM 10000
+Renault 50
+Renault TRM-150.11
+Renault GBC 180
+Renault TRM 180.11
+Renault TRM-700.100T
+Renault Midlum
+REO 29XS
+REO 29XS F1
+REO 28X6
+REO US6
+REO M35
+Reynolds Boughton RB44
+Rochet-Schneider 3T
+Rochet-Schneider 1T2
+Rochet-Schneider 420VLES
+Rotinoff Super Atlantic
+Russo-Balt D/M
+Russo-Balt T
+SAMIL SAMIL-20
+SAMIL SAMIL-50
+SAMIL SAMIL-100
+Saurer AA
+Saurer AB
+Saurer AC
+Saurer AE
+Saurer M6 (6M)
+Saurer M8 (8M)
+Saurer MH4 (4M)
+Saurer 2 CM
+Saurer 4 CM
+Saurer 5 CM
+Saurer 3CM
+Saurer 6GAVFR
+Saurer 2DM
+Saurer 5DM
+Saurer 6DM
+Saurer 10DM
+Saviem R-2152
+Saviem R-2182
+Saviem R-4152
+Saviem R-7521
+Saviem M-14A1
+Saviem TP3
+Saviem SM8
+Scania-Vabis Scania-Vabius T-3
+Scania-Vabis F11
+Scania-Vabis LA82 (Ltgb-957GF)
+Scania SBA/SBA111
+Scania LT146
+Scania P92MK/HK
+Scania R112E/P112H
+Scania R142E/T142E
+Scania P93MK
+Scania P113HK
+Scania R143EK
+Scania T144GB6x4NZ
+Simca F594WMC/F594WML
+Simca Simca-UNIC-Marmon-Bocquet MH600BSA
+Sisu KB-45
+Sisu A-45
+Sisu SA-150
+Sisu SA-240/SA-241
+Sisu E11 HMTV
+Sisu E11 FMTV
+Škoda Works Skoda U (50HP)
+Škoda Auto Skoda 6LT6-L
+Škoda Skoda 6ST6-T
+Škoda Skoda 6S/6V
+Škoda Skoda 6VTP6-T
+Škoda Skoda RSO
+Škoda Skoda 4S
+S.P.A. SPA-8000/9000
+S.P.A. SPA 25C10
+S.P.A. SPA 36R/38R
+S.P.A. SPA-Dovunque-35
+S.P.A. SPA TL37
+S.P.A. SPA TM40
+S.P.A. SPA T40
+S.P.A. SPA CL39
+S.P.A. SPA-Dovinque-41
+Star 66/660
+Star 266
+Star 744
+Star 944
+Star 1466
+Stewart & Stevenson FMTV
+Steyr 40D (140/340/640)
+Steyr 270 (1500A)
+Steyr 2000A
+Steyr 480
+Steyr Halflinger
+Steyr 680M/680M3
+Steyr 1291/1491
+Steyr 12M18/12M21
+Steyr 12M23/35M36
+Steyr 14.224LAC/18.264LAE
+Steyr-Daimler-Puch Pinzgauer
+Studebaker electromobile
+Studebaker K15F
+Studebaker K25S
+Studebaker US6
+Studebaker M35
+Tatra 26/30
+Tatra 23
+Tatra 24
+Tatra 25
+Tatra 82
+Tatra 92
+Tatra 93
+Tatra 27
+Tatra 28
+Tatra 22
+Tatra 29
+Tatra 85
+Tatra 81
+Tatra 111
+Tatra 805
+Tatra 128
+Tatra 141
+Tatra 138
+Tatra 148
+Tatra 813
+Tatra 815/Armax
+Thornycroft Nubian
+Thornycroft Antar
+Tovarna avtomobilov Maribor TAM 1500
+Tovarna avtomobilov Maribor TAM 2000
+Tovarna avtomobilov Maribor TAM 110
+Tovarna avtomobilov Maribor TAM 150
+Tovarna avtomobilov Maribor TAM-162T9
+Tovarna avtomobilov Maribor TAM-182T10
+Toyota KB/KC
+Toyota FG10
+Toyota FQS
+Toyota DW15L
+Unic P107B
+Unic TU-1
+UralAZ Ural-375D
+UralAZ Ural-43223
+Vehicle Factory Jabalpur VFJ Vahan 1 ton
+Vehicle Factory Jabalpur VFJ Shaktiman
+Vehicle Factory Jabalpur VFJ Shaktiman Tipper
+Vehicle Factory Jabalpur VFJ Matang
+Ward LaFrance M1
+Ward LaFrance M1A1
+Ward LaFrance M746
+Weiss H1/H2
+White TEBO
+White TBC
+White T3
+White 704s
+White 920
+White 922
+White 666
+White 1064
+White 444T
+White M35
+Willème 
+Willeme D9
+Willeme DU10/DU12/DG12/R15
+Willeme DW12A
+Willeme LD610N
+Willeme L6DAT
+Willeme RD615D/W6DAT
+Willeme W8SA
+Willeme CG
+Western Star M4866S
+ZIS ZIS-6
+ZIS ZIS-5V (ZIS-5 of war time)
+ZIS ZIS-32
+ZIS ZIS-22
+ZIS ZIS-33
+ZIS ZIS-35
+ZIS ZIS-42/42M
+ZIS ZIS-150
+ZIS ZIS-151
+ZIL ZIL-157
+ZIL ZIL-131
+ZIL Zil-137
+ZIL ZIL-433460

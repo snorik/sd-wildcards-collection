@@ -1,0 +1,21 @@
+ultra wide-angle 13mm
+ultra wide-angle 15mm
+ultra wide-angle 18mm
+ultra wide-angle 21mm
+typical wide-angle 24mm
+typical wide-angle 28mm
+slightly wide-angle 35mm	
+normal 40mm
+normal 50mm
+normal 55mm
+portrait lens 85mm
+portrait lens 105mm
+telephoto 135mm
+telephoto 180mm
+telephoto 210mm
+long telephoto 300mm
+long telephoto 400mm
+long telephoto 500mm
+long telephoto 600mm
+long telephoto 830mm
+very long telephoto 1200mm

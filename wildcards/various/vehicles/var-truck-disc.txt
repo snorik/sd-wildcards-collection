@@ -1,0 +1,229 @@
+Agricola 25 GT 4x4
+Alfa Romeo A15
+Alfa Romeo 50
+Alfa Romeo 85
+Alfa Romeo 350
+Alfa Romeo 430
+Alfa Romeo 900
+Alfa Romeo 950
+Alfa Romeo Mille
+Alfa Romeo 500
+Alfa Romeo 800
+Avia A15
+Avia A30
+Avia A60/65/75/80
+Amur AMUR-531350
+Barkas B1000
+Bering LD15
+Bering MD23
+Bering HDMX
+BMC Megastar
+Büssing Commodore
+Büssing BS 16 L
+Büssing MAN Büssing
+Büssing LS 77
+Csepel D350
+Csepel D400/D420
+Csepel D450
+Csepel D344
+Csepel 700 Series
+Csepel D452/D453
+Csepel D708
+Csepel D730
+Csepel D717
+Csepel D750
+Csepel D752 Series
+Diamond T 630
+Diamond T 969A Wercker
+Ernst Grube H6
+Ernst Grube Sachsenring S4000-1
+Ernst Grube G5
+Fabrika automobila Priboj (FAP) FAP 13.14
+FAP 18.20
+FAP 22.22
+FAP 19.21
+FAP 19.215
+FAP 15.16/15.20
+FAP 10.16
+FAP 1213/1216
+FAP 1620
+Fabryka Samochodów Ciężarowych (FSC) FSC Żuk
+FSC Lublin
+FSC Star Star 20
+FSC Star Star 21
+FSC Star Star 66
+FSC Star Star 25
+FSC Star Star 27
+FSC Star Star 660
+FSC Star Star 28/29
+FSC Star Star 200
+FSC Star Star 244
+FSC Star Star 266
+FSC Star Star 742
+FSC Star Star 744
+FSC Star Star 1142
+FSC Star Star 8.125
+FSC Star Star 12.157
+Star S2000
+Star 14.227
+GAZ GAZ-AA
+GAZ GAZ-AAA
+GAZ GAZ-51
+GAZ GAZ-63
+GAZ GAZ-52 and GAZ-53
+GAZ GAZ-66
+Horch H3
+Horch H3A
+Industrieverband Fahrzeugbau (IFA), Industriewerke Ludwigsfelde plant IFA W50
+Industrieverband Fahrzeugbau (IFA), Industriewerke Ludwigsfelde plant IFA W50LA
+Industrieverband Fahrzeugbau (IFA), Industriewerke Ludwigsfelde plant IFA L60/1218
+Industrieverband Fahrzeugbau (IFA), Industriewerke Ludwigsfelde plant IFA L60/1218PB
+Jelcz Zubr A80
+Jelcz 300 Series
+Jelcz 640 Series
+Jelcz 410 series
+Jelcz 600 series
+Kutaisi Automobile Plant KAZ-606 Colchis
+Kutaisi Automobile Plant KAZ-608 Colchis
+Kutaisi Automobile Plant KAZ-608B Colchis
+Kutaisi Automobile Plant KAZ-4540
+KrAZ KrAZ-219
+KrAZ KrAZ-221
+KrAZ KrAZ-222
+KrAZ KrAZ-214
+KrAZ KrAZ-257
+KrAZ KrAZ-258
+KrAZ KrAZ-256B
+KrAZ KrAZ-255
+KrAZ KrAZ-250
+KrAZ KrAZ-260
+KZKT KZKT-535
+KZKT KZKT-537
+KZKT KZKT-7428 Rusich
+KZKT KZKT-8005
+Leyland Motors Landtrain
+LiAZ 100 Series
+LiAZ 200 Series
+LiAZ S/FZ Series
+LiAZ 300 Series
+Minsk Automobile Plant (MAZ) MAZ-200
+Minsk Automobile Plant (MAZ) MAZ-205
+Minsk Automobile Plant (MAZ) MAZ-535
+Minsk Automobile Plant (MAZ) MAZ-501
+Minsk Automobile Plant (MAZ) MAZ-502
+Minsk Automobile Plant (MAZ) MAZ-537
+Minsk Automobile Plant (MAZ) MAZ-543
+Minsk Automobile Plant (MAZ) MAZ-500
+Minsk Automobile Plant (MAZ) MAZ-503
+Minsk Automobile Plant (MAZ) MAZ-504
+Minsk Automobile Plant (MAZ) MAZ-516
+Minsk Automobile Plant (MAZ) MAZ-509
+Minsk Automobile Plant (MAZ) MAZ-5335
+Minsk Automobile Plant (MAZ) MAZ-5549
+Minsk Automobile Plant (MAZ) MAZ-5429
+Multicar M24
+Multicar M25
+Multicar M26
+MAN HX
+Praga N
+Praga L
+Praga AN
+Praga ND/SND
+Praga TN/TNHP
+Praga TOV
+Praga RN/RND
+Praga V3S
+Praga S5T
+Praga S5T-2TN
+Praga UV80
+Praga NTS-265
+Renault Magnum
+Riga Autobus Factory RAF-33111
+Sachsenring S4000
+Škoda Skoda 304/306
+Skoda Skoda-Sentinel
+Skoda-Laurin & Klement Skoda-Laurin-Klement-505/545
+Skoda-Laurin-Klement Skoda-Laurin-Klement-125
+Skoda Skoda-550
+Skoda Skoda-104/154
+Skoda Skoda-304/306
+Skoda Skoda-504/506
+Skoda Skoda-404D/606D
+Skoda Skoda-206
+Skoda Skoda-656D/806D
+Skoda Skoda-254D
+Skoda Skoda-100/150
+Skoda Skoda-256B
+Skoda Skoda-706D
+Skoda Skoda-706R
+Skoda-LIAZ Skoda-706RT
+Skoda-LIAZ Skoda-LIAZ-706MT
+Skoda Škoda 1203
+Skoda-LiAZ 100 Series
+Skoda-LiAZ 200 Series
+Skoda-LiAZ S/FZ Series
+Skoda-LiAZ 300 Series
+Skoda-LIAZ Skoda-LIAZ-Xena
+Sterling 360
+Sterling Acterra
+Sterling Set Forward L-Line
+Sterling Set Back L-Line
+Sterling Set Back A-Line
+Tatra TL4
+Tatra 13
+Tatra 26
+Tatra T23
+Tatra T24
+Tatra T43/T52
+Tatra T27
+Tatra 82
+Tatra T92
+Tatra T93
+Tatra T85/T91
+Tatra T81
+Tatra T111
+Tatra T128
+Tatra T141
+Tatra T805
+Tatra T138
+Tatra T813
+Tatra T148
+Tatra T815
+Tatra T815 TerrNo1
+Trnavské automobilové závody (TAZ) TAZ 1500
+UralZIS UralZIS-355M
+UralAZ Ural-375
+UralAZ Ural-377
+UralAZ Ural-4322
+VEB Fahrzeugwerk Mölkau IFA Picco max 4
+VEB Robur-Werke Robur Garant
+VEB Robur-Werke Robur LO 2500/LD2500
+VEB Robur-Werke Robur Lo 1800A
+VEB Robur-Werke Robur LO/LD 2501
+VEB Robur-Werke Robur 1801A
+VEB Robur-Werke Robur LO/LD 3000
+VEB Robur-Werke Robur LO 2202A
+VEB Robur-Werke Robur LD/LO 3001/3002
+Robur-Werke Robur LD3004
+YaAZ Ya-3
+YaAZ Ya-4
+YaAZ Ya-5
+YaAZ YaG-3
+YaAZ YaG-10
+YaAZ YaG-6
+YaAZ YaAZ-200
+YaAZ YaAZ-210
+YaAZ YaAZ-214
+YaAZ YaAZ-221
+YaAZ YaAZ-222
+ZIS ZIS-5
+ZIS ZIS-6
+ZIS ZIS-150
+ZIS ZIS-151
+ZIL ZIL-157
+ZIL ZIL-130
+ZIL ZIL-131
+ZIL ZIL-133
+ZIL ZIL-4334
+ZIL ZIL-6309
+Zmaj Zmaj-3200

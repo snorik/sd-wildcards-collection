@@ -1,0 +1,32 @@
+Deep Almond #986A5A
+Deep Golden #8D5B28
+Deep Rose #B86F69
+Deepest Almond #513529
+Extra Deep Almond #6E5046
+Extra Deep Golden #5F452E
+Extra Deep Rose #6C4D4B
+Extra Light Almond #EEE6CF
+Light Almond #E6B9B3
+Light Golden #EDDBC7
+Light Medium Almond #E0B5A4
+Light Medium Golden #F0C9A2
+Light Medium Rose #F4AFB2
+Light Rose #FAC7C3
+Medium Almond #D19C7D
+Medium Deep Almond #AC8065
+Medium Deep Golden #A16B4F
+Medium Deep Rose #EE8E99
+Medium Golden #DEA26C
+Very Deep Almond #88605E
+Very Deep Rose #8F6C68
+Very Light Almond #E6D2D3
+Very Light Golden #F0DFCF
+Very Light Rose #F7E1E3
+Black Hair #000000
+Blonde Hair #FFFF99
+Blue Eyes #6CDAE7
+Brown Eyes #AF593E
+Brown Hair #9E5B40
+Green Eyes #7BA05B
+Hazel Eyes #D27D46
+Red Hair #CA343

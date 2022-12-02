@@ -1,0 +1,76 @@
+agender
+androgyne
+androgynous
+bigender
+cis female
+cis male
+cis man
+cis woman
+cis
+cisgender female
+cisgender male
+cisgender man
+cisgender woman
+cisgender
+demi-boy
+demi-girl
+demi-man
+demi-woman
+demiflux
+demigender
+f2m
+ftm
+female to male trans man
+female to male transgender man
+female to male transsexual man
+female to male
+gender fluid
+gender neutral
+gender nonconforming
+gender questioning
+gender variant
+genderflux
+genderqueer
+hermaphrodite
+intersex man
+intersex person
+intersex woman
+intersex
+m2f
+mtf
+male to female trans woman
+male to female transgender woman
+male to female transsexual woman
+male to female
+man
+multigender
+neither
+neutrois
+non-binary
+omnigender
+other
+pangender
+polygender
+t* man
+t* woman
+trans female
+trans male
+trans man
+trans person
+trans woman
+trans
+transexual female
+transexual male
+transexual man
+transexual person
+transexual woman
+transexual
+transgender female
+transgender person
+transmasculine
+trigender
+two* person
+two-spirit person
+two-spirit
+woman
+xenogender

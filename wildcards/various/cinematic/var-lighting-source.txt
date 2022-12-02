@@ -1,0 +1,15 @@
+daylight
+bright sunshine
+overcast evening
+artificial light
+normal lighting
+photoflood lighting
+incandescent lighting
+fluorescent lighting
+sodium discharge street lighting
+flash lighting
+studio environment
+electric sparks lighting
+fireworks lighting
+moonlight
+candle lighting

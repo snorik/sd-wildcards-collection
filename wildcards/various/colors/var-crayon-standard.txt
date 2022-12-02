@@ -1,0 +1,168 @@
+Red #ED0A3F
+Maroon #C32148
+Scarlet #FD0E35
+Brick Red #C62D42
+English Vermilio
+Madder Lake
+Permanent Geranium Lake
+Maximum Red
+Chestnut #B94E48
+Orange-Red #FF5349
+Sunset Orange #FE4C40
+Bittersweet #FE6F5E
+Dark Venetian Red
+Venetian Red
+Light Venetian Red
+Vivid Tangerine #FF9980
+Middle Red
+Burnt Orange #FF7034
+Red-Orange #FF681F
+Orange #FF8833
+Macaroni and Cheese #FFB97B
+Middle Yellow Red
+Mango Tango #E77200
+Yellow-Orange #FFAE42
+Maximum Yellow Red
+Banana Mania #FBE7B2
+Maize #F2C649
+Orange-Yellow #F8D568
+Goldenrod #FCD667
+Dandelion #FED85D
+Yellow #FBE870
+Green-Yellow #F1E788
+Middle Yellow
+Olive Green #B5B35C
+Spring Green #ECEBBD
+Maximum Yellow
+Canary #FFFF99
+Lemon Yellow #FFFF9F
+Maximum Green Yellow
+Middle Green Yellow
+Inchworm #AFE313
+Light Chrome Green
+Yellow-Green #C5E17A
+Maximum Green
+Asparagus #7BA05B
+Granny Smith Apple #9DE093
+Fern #63B76C
+Middle Green
+Green #01A638
+Medium Chrome Green
+Forest Green #5FA777
+Sea Green #93DFB8
+Shamrock #33CC99
+Mountain Meadow #1AB385
+Jungle Green #29AB87
+Caribbean Green #00CC99
+Tropical Rain Forest #00755E
+Middle Blue Green
+Pine Green #01796F
+Maximum Blue Green
+Robin's Egg Blue #00CCC
+Teal Blue #008080
+Light Blue #8FD8D8
+Aquamarine #95E0E8
+Turquoise Blue #6CDAE7
+Outer Space #2D383A
+Sky Blue #76D7EA
+Middle Blue
+Blue-Green #0095B7
+Pacific Blue #009DC4
+Cerulean #02A4D3
+Maximum Blue
+Blue (I)
+Cerulean Blue
+Cornflower #93CCEA
+Green-Blue #2887C8
+Midnight Blue #003366
+Navy Blue #0066CC
+Denim #1560BD
+Blue (III) #0066FF
+Cadet Blue #A9B2C3
+Periwinkle #C3CDE6
+Blue (II)
+Bluetiful #3C69E7
+Wild Blue Yonder #7A89B8
+Indigo #4F69C6
+Manatee #8D90A1
+Cobalt Blue
+Celestial Blue
+Blue Bell #9999CC
+Maximum Blue Purple
+Violet-Blue #766EC8
+Blue-Violet #6456B7
+Ultramarine Blue
+Middle Blue Purple
+Purple Heart #652DC1
+Royal Purple #6B3FA0
+Violet (II) #8359A3
+Medium Violet
+Wisteria #C9A0DC
+Lavender (I) #BF8FCC
+Vivid Violet #803790
+Maximum Purple
+Purple Mountains' Majesty #D6AEDD
+Fuchsia #C154C1
+Pink Flamingo #FC74FD
+Violet (I)
+Brilliant Rose
+Orchid #E29CD2
+Plum #8E3179
+Medium Rose
+Thistle #D8BFD8
+Mulberry #C8509B
+Red-Violet #BB3385
+Middle Purple
+Maximum Red Purple
+Jazzberry Jam #A50B5E
+Eggplant #614051
+Magenta #F653A6
+Cerise #DA3287
+Wild Strawberry #FF3399
+Lavender (II) #FBAED2
+Cotton Candy #FFB7D5
+Carnation Pink #FFA6C9
+Violet-Red #F7468A
+Razzmatazz #E30B5C
+Piggy Pink #FDD7E4
+Carmine
+Blush #DB5079
+Tickle Me Pink #FC80A5
+Mauvelous #F091A9
+Salmon #FF91A4
+Middle Red Purple
+Mahogany #CA3435
+Melon #FEBAAD
+Pink Sherbert #F7A38E
+Burnt Sienna #E97451
+Brown #AF593E
+Sepia #9E5B40
+Fuzzy Wuzzy #87421F
+Beaver #926F5B
+Tumbleweed #DEA681
+Raw Sienna #D27D46
+Van Dyke Brown
+Tan #FA9D5A
+Desert Sand #EDC9AF
+Peach #FFCBA4
+Burnt Umber
+Apricot #FDD5B1
+Almond #EED9C4
+Raw Umber #665233
+Shadow #837050
+Raw Sienna (I)
+Gold (I)
+Gold (II) #E6BE8A
+Silver #C9C0BB
+Copper #DA8A6
+Antique Brass #C88A65
+Black #000000
+Charcoal Gray
+Gray #8B8680
+Blue-Gray #C8C8CD
+Timberwolf #D9D6CF
+White #FFFFFF
+Crayellow #F1D651
+Cool Mint #DDEBEC
+Oatmeal #D9DAD2
+Powder Blue #C0D5F0

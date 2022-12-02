@@ -1,0 +1,38 @@
+alice blue
+aqua
+aquamarine
+azure
+azure (web)
+blue-green
+capri
+caribbean current
+celeste
+cerulean
+cyan (rgb)
+dark cyan
+electric blue
+fluorescent cyan
+jungle green
+keppel
+ice blue
+light cyan
+light sea green
+mint green
+mint
+moonstone
+myrtle green
+pacific cyan
+persian green
+pine green
+process cyan
+robin egg blue
+sea green
+skobeloff
+sky blue (crayola)
+spring green
+teal
+tiffany blue
+turquoise
+verdigris
+vivid sky blue
+zomp

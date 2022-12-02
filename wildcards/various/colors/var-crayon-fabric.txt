@@ -1,0 +1,9 @@
+black
+blue
+burnt sienna
+green
+light blue
+magenta
+orange
+violet
+yellow

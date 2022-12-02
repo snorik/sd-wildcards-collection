@@ -1,0 +1,24 @@
+Apricot #FDD9B5
+Black #000000
+Blue #1F75FE
+Blue Green #0D98BA
+Blue Violet #7366BD
+Brown #B4674D
+Carnation Pink #FFAACC
+Cerulean #1DACD6
+Dandelion #FDDB6D
+Gray #95918C
+Green #1CAC78
+Green Yellow #F0E891
+Indigo #5D76CB
+Orange #FF7538
+Red #EE204D
+Red Orange #FF5349
+Red Violet #C0448F
+Scarlet #FC2847
+Violet (Purple) #926EAE
+Violet Red #F75394
+White #FFFFFF
+Yellow #FCE883
+Yellow Green #C5E384
+Yellow Orange #FFAE42

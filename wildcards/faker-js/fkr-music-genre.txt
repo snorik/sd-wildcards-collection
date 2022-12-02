@@ -1,0 +1,18 @@
+rock
+metal
+pop
+electronic
+folk
+world
+country
+jazz
+funk
+soul
+hip hop
+classical
+latin
+reggae
+stage and screen
+blues
+non music
+rap
