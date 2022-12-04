@@ -1,0 +1,32 @@
+All Terrain Armored Transport AT-AT
+All Terrain Scout Transport AT-ST
+Cloud car
+Desert Skiff
+Jabba's Sail Barge Khetanna
+Landspeeder
+Sandcrawler
+Skyhopper
+Snowspeeder T-47 Airspeeder
+Speeder bike
+Armored Assault Tank AAT
+Bongo Submarine
+Clone turbo tank HAVw A6 Juggernaut
+Corporate Alliance tank droid
+Dwarf spider droid
+HMP Droid gunship
+Flash speeder
+Gian speeder
+Hailfire droid tank
+Homing spider droid
+Multi-troop transport MTT
+Podracer
+Republic assault gunboat
+Republic LAAT Gunship
+Self-propelled heavy artillery SPHA
+Single Trooper Aerial Platform STAP
+Swamp speeder
+Wheel bike
+Wookiee flying catamaran
+Wookiee ornithopter
+Imperial Assault Tank
+Imperial Troop Transport

@@ -1,0 +1,32 @@
+TIE Fighter
+TIE Bomber
+TIE Interceptor
+TIE Defender
+TIE Striker
+TIE Reaper
+TIE Silencer
+TIE Whisper
+TIE Dagger
+TIE Crawler
+A-wing
+B-wing
+X-wing
+Y-wing
+ARC-170
+Droid Tri-Fighter
+Geonosian starfighter
+Jedi starfighter
+Jedi interceptor
+Naboo N-1 starfighter
+Porax-38 starfighter
+Soulless One
+V-wing
+2.10 Vulture Droid
+E-wing
+Gauntlet Fighter
+Fanblade starfighter
+U-wing
+V-19 Torrent
+Z-95 Headhunter
+
+
