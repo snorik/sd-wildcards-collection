@@ -1,0 +1,18 @@
+M4 Mortar Motor Carriage
+M21 Mortar Motor Carriage
+Reihenwerfer
+Carrier Mortar Tracked (CMT)
+M106 mortar carrier
+Vz.85 ShM-120 PRAM-S
+120 KRH-TEKA (Sisu NA-122)
+Patria NEMO
+PLL-05
+RAK
+GMM-120
+M1064 mortar carrier
+M1129 Mortar Carrier
+2S9 Nona
+2S31 Vena
+2S34 Hosta
+AMOS
+2S4 Tyulpan
