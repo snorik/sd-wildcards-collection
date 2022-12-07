@@ -17,7 +17,6 @@ Sphericon
 Spheroid
 Uniform polyhedron
 Plane
-Quadric surfaces
 Cone
 Cylinder
 Ellipsoid
