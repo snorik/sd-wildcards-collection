@@ -1,0 +1,28 @@
+Bowditch curve
+Brachistochrone
+Butterfly curve
+Catenary
+Clélies
+Cochleoid
+Cycloid
+Horopter
+Isochrone
+Isochrone of Huygens (Tautochrone)
+Isochrone of Leibniz
+Isochrone of Varignon
+Lamé curve
+Pursuit curve
+Rhumb line
+Spirals
+Archimedean spiral
+Cornu spiral
+Cotes' spiral
+Fermat's spiral
+Galileo's spiral
+Hyperbolic spiral
+Lituus
+Logarithmic spiral
+Nielsen's spiral
+Syntractrix
+Tractrix
+Trochoid

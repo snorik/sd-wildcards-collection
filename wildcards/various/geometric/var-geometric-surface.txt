@@ -1,0 +1,28 @@
+Algebraic surfaces
+Barth sextic
+Boy's surface
+Catalan's minimal surface
+Catenoid
+Cayley cubic
+Clebsch cubic
+Costa's minimal surface
+Cross-cap
+Dini's surface
+Dupin cyclide (inversion of a torus)
+Enneper surface
+Gyroid
+Helicoid
+Klein bottle
+Lidinoid
+Monkey saddle
+Pseudosphere
+Real projective plane
+Riemann's minimal surface
+Right conoid (a ruled surface)
+Roman surface
+Saddle tower
+Scherk surface
+Schwarz minimal surface
+Torus
+Triply periodic minimal surface
+Whitney umbrella

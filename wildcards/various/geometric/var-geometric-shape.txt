@@ -1,0 +1,31 @@
+Cone
+Cuboid
+Cylinder
+Ellipsoid
+Hyperbolic paraboloid
+Hyperboloid
+Lemon
+Oblate spheroid
+Oloid
+Paraboloid
+Parallelepiped
+Polyhedron
+Prism
+Rhombohedron
+Sphere
+Sphericon
+Spheroid
+Uniform polyhedron
+Plane
+Quadric surfaces
+Cone
+Cylinder
+Ellipsoid
+Spheroid
+Sphere
+Hyperboloid
+Paraboloid
+Bicylinder
+Tricylinder
+Möbius strip
+Torus
