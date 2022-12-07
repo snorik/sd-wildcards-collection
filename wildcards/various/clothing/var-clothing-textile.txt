@@ -1,0 +1,57 @@
+Alpaca
+Angora wool
+Azlon
+Byssus
+Camel hair
+Cashmere wool
+Chiengora
+Lambswool
+Llama
+Mohair wool
+Qiviut
+Rabbit
+Silk
+Eri silk
+Spider silk
+Vicuña
+Wool
+Yak
+Abacá
+Acetate
+Bamboo
+Banana
+Kapok
+Coir
+Cotton
+Flax
+Hemp
+Jute
+Kenaf
+Lyocell
+Modal
+Piña
+Raffia
+Ramie
+Rayon
+Sisal
+Soy protein
+Bast fiber
+Cedar bark textile
+Esparto
+Fique
+Papyrus
+Straw
+Asbestos Cloth
+Glass, Fibreglass
+Basalt fiber
+Copper
+Gold
+Steel
+Acrylic
+Kevlar
+Modacrylic
+Nomex
+Nylon
+Polyester
+Spandex
+Rayon
