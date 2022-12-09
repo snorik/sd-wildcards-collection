@@ -1,0 +1,500 @@
+Sea Otter
+Cat
+Giant Panda
+Fennec Fox
+Dog
+Rock Hyrax
+Ring-tailed Lemur
+Red Panda aka Firefox
+Dunnart
+Meerkat
+Binturong aka Bearcat
+Harp Seal
+Adelie Penguin
+Macaque
+Capybara
+Antechinus
+Prairie Dog
+Frilled Neck Lizard
+Clouded Leopard
+Clown Fish
+Wallaby
+Dormouse
+Blue-footed Booby
+Northern River Otter
+Little Red Kaluta
+Pink Fairy Armadillo
+Mulgara
+Sugar Glider
+Common Planigale
+Gentoo Penguin
+Blue Penguin
+Colubus
+Guinea Pig
+Chimpanzee
+Desman
+Douc
+Kipunji
+Gymnure aka Moonrat
+Talapoin
+Elephant Seal
+Asian Small-clawed Otter
+False Antechinus
+Siamang
+Chinstrap Penguin
+Lutung
+Oribi
+Degu
+Civet Cat
+Bottlenose Dolphin
+Ring-tailed Cat
+Kiwi
+Slow Loris
+Koala
+Monkey
+Beluga Whale
+Kultarr
+Sand Cat
+Bush Baby
+Puffin
+Kangaroo
+Mouse
+Duiker
+Chinchilla
+Gray Seal
+Matschie's Tree Kangaroo
+Aye Aye
+Dwarf Rabbit
+Quokka
+Rabbit
+Hummingbird
+Deer
+Head-Bobbing Lemur
+Serval
+Snowshoe Hare
+Chipmunk
+Dwarf Mongoose
+New Zealand Sea Lion
+Malbrouck
+Jackrabbit
+Saki Monkey
+Wombat
+White-faced Capuchin
+Bonobo
+Eastern Cottontail
+Drill
+Hamster
+Flying Squirrel
+Canary
+Hedgehog
+Tree Squirrel
+Honey Badger
+Guenon
+Surili
+Wallace's Three-striped Dasyure
+Giraffe
+Black Stork
+Tur
+Coati
+Verreaux's Sifaka
+Gerbil
+Pygmy Hippopotamus
+Vervet
+Culpeo
+Squirrel Monkey
+Mandrill
+Pika
+Phascogale
+Gelada Monkey
+Pygmy Hog
+Bearded Saki
+Grivet
+Titi
+Geoffroy's Cat
+Zokor
+Gundi
+Kodkod
+Pygmy Marmoset
+Lemur!
+Feather-tail Glider
+Dik-dik
+Pallas' Cat
+Black-footed Ferret
+Antarctic Fur Seal
+Tree Hyrax
+Wildcat
+Domestic Sheep
+African Black-footed Cat
+Leopard Seal
+Emperor Penguin
+Gelada Baboon
+Langur
+Chickadee
+Bushy-tailed Jird
+Patagonian Opossum
+Stoat aka Ermine
+Orangutan
+Hawaiian Monk Seal
+Fisher
+Pocket Gopher
+Sun Bear
+Arctic Fox
+Chevrotain aka Mouse Deer
+Golden Lion Tamarin
+Pine Marten aka American Marten
+Juan Fernández Fur Seal
+Jerboa
+Long-tailed Tit
+North American Raccoon
+Potto
+Solenodon
+Prevosts's Squirrel
+Beaver
+Blue Monkey
+Suslik
+Snow Leopard
+Agile Mangabey
+Andean Mountain Cat
+Royal Penguin
+Fallow Deer
+Kowari
+California Sea Lion
+African Blackfoot Penguin
+Tarsier
+Raccoon Dog
+Eurasian Otter
+Crab-eating Fox
+Brown Fur Seal
+Galápagos Penguin
+African Buffalo
+Przewalski's Horse
+Magellanic Penguin
+Thomson's Gazelle
+Gazelle
+Galago
+Galapagos Fur Seal
+Puku
+Humboldt Penguin
+Southern River Otter
+Elk
+Tasmanian Devil
+Beira
+Australian Sea Lion
+Lechwe
+African Hunting Dog
+Ringed Seal
+Saiga
+Crabeater Seal
+Dhole
+South American Sea Lion
+Kob
+Margay
+Bush Dog
+Aardwolf
+Woodchuck
+Mediterranean Monk Seal
+Macaroni Penguin
+Giant Otter
+African Wild Dog
+Patgonian Cavy aka Mara
+Platypus
+Fiordland Penguin
+Andean Bear
+Springbok
+Kha-nyou
+Agouti
+Zorilla
+Gibbon
+Ribbon Seal
+Black Squirrel
+Mink
+Greater Bilby
+Mouse Lemur
+Mini Nubian Goat
+Muskrat
+King Penguin
+Antelope
+African Clawless Otter
+Brush-tailed Bettong
+Bat-eared Fox
+Goeldi's Marmoset or Goeldi's Monkey
+Lynx
+Suni
+Snow Leopard
+Sunda Stink Badger
+Oncilla
+Saola
+Common Seal
+Cuscus
+Pygmy Anteater
+Zebra
+Sable
+Chiru aka Tibetan Antelope
+Spotted-necked Otter
+Lesser Grison
+Taruca
+Wallaroo
+Yellow-eyed Penguin
+Anteater
+Guanaco
+Pampas Cat
+Pudu
+Tayra
+Bearded Seal
+Caracal
+Paca
+Père David's Deer aka Milu
+Kinkajou
+Markhor
+Fishing Cat
+Rhebok
+Ocelot
+Ibex
+Hutia
+Anoa
+Iriomote Cat
+Caspian Seal
+Gaur
+Norway Rat aka Brown Rat
+Hog Deer
+Marmot
+Aoudad aka Barbary Sheep
+Hartebeest
+Erect-crested Penguin
+South Andean Deer aka Huemul
+Bighorn Sheep
+Emperor Tamarin
+Brocket Deer
+Vicuña
+Giant Forest Hog
+Dibatag aka Clarke's Gazelle
+Pademelon
+Baikal Seal
+Amazon River Dolphin
+Quoll
+Argali
+New Zealand Fur Seal aka Southern Fur Seal
+Cameroon Scaly-tail
+Sandpipers
+Black-backed Jackal
+Goral
+Blackbuck
+Badger
+Miniature Horse
+Weddell Seal
+Flamarion's Tuco-tuco
+Mouflon
+Thirteen-lined Ground Squirrel
+Tahr
+South American Fur Seal
+Southern Viscacha
+Klipspringer
+Cuban Screech Owl
+Tamandua
+Yak
+Madagascar Hedgehog Tenrec
+Subantarctic Fur Seal
+Scottish Highland Cow
+Gerenuk
+Hairy-nosed Otter
+Nilgai
+Robin
+Dibbler
+Sloth Bear
+Kouprey
+Porcupine
+Springhaas
+Chuditch
+Owl
+Sclater's Lemur
+Nyala
+Muntjac
+Barbirusa Pig
+Elephant Shrew
+Dugong
+Peccary
+Spinner Dolphin
+Coypu
+Numbat
+African Linsang
+Colugo
+Olingo
+Sitatunga
+Onager
+Spotted Seal
+Mountain Goat
+Orca aka Killer Whale
+Liger
+American Wolf
+Musk Deer
+Stellar Sea Lion
+African Barred Owlet
+Galapagos Sea Lion
+Spotted Hyena
+River Dolphin aka Baiji
+Mountain Bongo
+Mallard
+Polar Bear
+Iberian Mole
+Gorilla
+Lemming
+Manatee
+Puma
+Bearded Pig
+Pig
+Mountain Beaver
+Sifaka
+Black Bear
+Tenrec
+Horse
+Bobcat
+Pronghorn
+Red Fox
+Spectacled Bear
+Cheetah
+Ross Seal
+Marbled Polecat
+Eland
+Long-nosed Bandicoot
+Transcaspian Urial
+Golden Mole
+Moose
+Topi
+Domestic goat
+Mole rat
+Alpaca
+Coyote
+Rockhopper Penguin
+Baboon
+Smooth-coated Otter
+Donkey
+Aldabra Flying Fox
+Kudu
+Cougars
+Weasel
+Jaguarundi
+Sloth
+Bactrian Camel
+Serow
+Lion
+Nine-banded Armadillo
+Northern Fur Seal
+Dwarf Zebu
+Oryx
+European Wolf
+Pangolin
+Snares Penguin
+Sumatran Tiger
+Wildebeest
+Addax
+Great Egret
+Galapagos Tortoise
+Bengal Tiger
+Cape Buffalo
+Okapi
+Takin
+Flamingo
+Tapir
+Echidna
+Banteng
+Reindeer aka Caribou
+Malagasy Jumping Rat
+Panther
+Vole
+Emu
+Arabian camel
+Somali Wild Ass
+Bison
+Black Rhinoceros
+Boar
+Plover
+Axolotl
+Aardvark
+Tawny Frogmouth
+Kangaroo Rat
+Grizzly Bear
+Domesticated Duck
+Llama
+Peacock
+Snowy Owl
+Proboscis Monkey
+Visayan Warty Pig
+White Rhinoceros
+Impala
+Hippopotamus
+Caribbean Reef Octopus
+Yoda Fruit Bat
+Butterflyfish
+White-crested Laughingthrush
+Skunk
+Quetzal
+Dingo
+Naked Mole Rat
+Argonaut aka Paper Nautilus
+Lionfish
+Kuhli Loach
+Zebra Finch
+Puffer Fish
+Cuttlefish
+Green Sea Turtle
+Chameleon
+Musk Ox
+Leafy Seadragon
+Firefly
+Seahorse
+Octopus
+Teacup Pig
+Burton's Legless Lizard
+Kemp's Ridley Sea Turtle
+Elephant Seal
+Toucan
+Pill Bug, a.k.a. Roly-Poly
+Elephant
+Western Long-nosed Snakes
+Glass Frog
+Butterfly
+Ladybug
+Humpback Whale
+Piglet Squid
+Ostrich
+Walrus
+Red-eyed Tree Frog
+Warthog
+Cattle
+Wolverine
+Whale Shark
+Vietnamese Long-nosed Snake
+Turkey
+Starry Smooth-hound Shark
+Red-footed Booby
+Poison Dart Frog
+Gecko
+Star-nosed Mole
+Swordfish
+Hawksbill Sea Turtle
+Starfish
+Cormorant
+Cantor's Giant Softshell Turtle
+Box Jellyfish
+Horned Lizard
+Genet
+Maned Wolf
+June Bug
+Kitti's Hog-nosed Bat
+Giant Squid
+Barramundi
+Pygmy Octopus
+Damselfish
+Snail
+Opossum
+Pallid Sturgeon
+Marine Iguana
+Eastern Mole
+Flying Fish
+Chicken
+Giant Clam
+Coelacanth
+Horseshoe Crab
+Nudibranch
+Narwhal
+Red Uakari
