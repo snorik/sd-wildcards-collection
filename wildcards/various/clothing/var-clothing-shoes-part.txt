@@ -1,0 +1,16 @@
+bootlaces
+cleat
+heel
+insole
+instep
+lace
+shoelace
+sole
+spat
+spike
+stiletto
+stud
+toe
+toecap
+tongue
+upper

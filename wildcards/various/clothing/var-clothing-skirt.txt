@@ -1,0 +1,36 @@
+ballgown
+caftan
+chemise
+cheongsam
+cocktail dress
+dirndl
+dress
+evening dress
+formal
+frock
+gown
+gymslip
+habit
+jumper
+kaftan
+kanga
+lungi
+maxi
+mini
+miniskirt
+pencil skirt
+pinafore
+pinafore
+sari
+sarong
+sheath
+shift
+shirtwaister
+shortie
+skirt
+slip dress
+sundress
+tutu
+wedding dress
+wrap
+wraparound
