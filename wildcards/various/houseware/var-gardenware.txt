@@ -1,0 +1,50 @@
+Averruncator
+Axe
+Billhook
+Broadfork
+Daisy grubber
+Dibber
+Garden fork
+Grafter
+Grass shears
+Grass stitcher
+Hoe
+Homi
+Hori hori
+Kirpi
+Loppers
+Machete
+Mattock
+Pickaxe
+Pitchfork
+Post hole digger
+Potting bench
+Pruning shears
+Secateurs
+Rake
+Riddle
+Scythe
+Shovel
+Sickle
+Spade
+Loy
+Trowel
+Watering can
+Weeder
+Wheelbarrow
+Wood auger
+Cultivator
+Dethatcher
+Earth auger
+Edger
+Hedge trimmer
+Lawn aerator
+Lawn mower
+Lawn sweeper
+Plough
+Brushcutter
+Chainsaw
+Garden hose
+Irrigation sprinkler
+Leaf blower
+String trimmer

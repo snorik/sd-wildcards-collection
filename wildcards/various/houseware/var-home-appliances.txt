@@ -1,0 +1,57 @@
+Air conditioner
+Air fryer
+Air ioniser
+Blower
+Blender
+Immersion blender
+Bread machine
+Clothes dryer
+Clothes iron
+Coffeemaker
+Dehumidifier
+Dishwasher 
+Drying cabinet
+Domestic robot
+Deep fryer
+Electric blanket
+Electric drill
+Electric knife
+Electric water boiler
+Electric heater
+Electric shaver
+Electric toothbrush
+Epilator
+Evaporative cooler
+Food processor
+Kitchen hood
+Garbage disposer
+Fan atticbladelessceiling
+Fan heaterwindow
+Freezer
+Hair dryer
+Hair iron
+Mixer
+Humidifier
+Icemaker
+Ice cream maker
+Juicer
+Laundry-folding machine
+Lawn mower
+Riding mower
+Robotic lawn mower
+Lighter
+Oven
+Convection oven
+Microwave oven
+Pie iron
+Refrigerator
+Crisper drawer
+Sewing machine
+Slow cooker
+Stove
+Television set
+Toaster
+Vacuum cleaner
+Waffle iron
+Water dispenser
+Washing machine

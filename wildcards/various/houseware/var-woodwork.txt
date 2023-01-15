@@ -1,0 +1,77 @@
+Abrasives
+Axe
+Adze
+Burnisher
+Chisel
+Drawknife
+Drill
+Fence
+Float
+Gimlet
+Gauge
+Impact driver
+Janka hardness test
+Jointer
+Mallet
+Milling machine
+Mitre box
+Rasp
+Router
+Shaper
+Sandpaper
+Thickness planer
+Timber-framing
+Veneer hammer
+Vise
+Warrington hammer
+Winding sticks
+Wood scribe
+Workbench
+Band clamp
+C-clamp
+F-clamp
+Flooring clamp
+Gripe
+Holdfast
+Mitre clamp
+Pipe clamp
+Sawbuck
+Backsaw
+Bandsaw
+Bow
+Bucksaw
+Chainsaw
+Circular
+Compass
+Coping
+Crosscut
+Frame
+Fretsaw
+Hand saw
+Jigsaw
+Keyhole
+Miter
+Ripsaw
+Scroll
+Table
+Veneer
+Whipsaw
+Bedrock plane
+Block plane
+Chamfer plane
+Compass plane
+Finger plane
+Fore plane
+Grooving plane
+Jack plane
+Japanese plane
+Jointer plane
+Moulding plane
+Razee plane
+Rebate plane
+Router plane
+Scrub plane
+Shoulder plane
+Smoothing plane
+Spokeshave
+Surform
